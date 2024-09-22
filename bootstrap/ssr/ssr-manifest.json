@@ -1,0 +1,229 @@
+{
+  "config/settings/index.ts": [
+    "/build/assets/PageContent-ChVB5ffB.js"
+  ],
+  "config/settings/template.corporate.config.ts": [
+    "/build/assets/useMediaManager-B4H2TCSK.js"
+  ],
+  "config/settings/template.executive.config.ts": [
+    "/build/assets/useMediaManager-B4H2TCSK.js"
+  ],
+  "config/settings/theme.config.ts": [
+    "/build/assets/useMediaManager-B4H2TCSK.js"
+  ],
+  "node_modules/laravel-vite-plugin/inertia-helpers/index.js": [],
+  "node_modules/react-modern-drawer/dist/index.css": [
+    "/build/assets/Permissions-BaVY6adQ.js",
+    "/build/assets/Permissions-D1N3Y2AV.css"
+  ],
+  "resources/js/assets/img/blank-462x265.webp": [
+    "/build/assets/blank-462x265-CaLUIvp7.js",
+    "/build/assets/blank-462x265-CeiEg4B3.webp"
+  ],
+  "resources/js/assets/img/pexels-pramodtiwari-14127564.jpg": [
+    "/build/assets/pexels-pramodtiwari-14127564-DCXoSYO9.js",
+    "/build/assets/pexels-pramodtiwari-14127564-QwyKBUPA.jpg"
+  ],
+  "resources/js/components/PageContent.tsx": [
+    "/build/assets/PageContent-ChVB5ffB.js"
+  ],
+  "resources/js/components/PageHeader.tsx": [
+    "/build/assets/PageHeader-M3dsieGA.js"
+  ],
+  "resources/js/components/Toastify.tsx": [
+    "/build/assets/Toastify-C9zJy1p3.js"
+  ],
+  "resources/js/components/form/ClassicInput.tsx": [
+    "/build/assets/ClassicInput-ByqbGa8A.js"
+  ],
+  "resources/js/components/mediaManager/helpers/mappers/tabs.mapper.ts": [
+    "/build/assets/useMediaManager-B4H2TCSK.js"
+  ],
+  "resources/js/components/mediaManager/hooks/useMediaManager.ts": [
+    "/build/assets/useMediaManager-B4H2TCSK.js"
+  ],
+  "resources/js/components/mediaManager/providers/MediaManagerProvider.tsx": [
+    "/build/assets/useMediaManager-B4H2TCSK.js"
+  ],
+  "resources/js/components/topbar/ColorModeToggler.tsx": [
+    "/build/assets/Layout-Dea-AUKX.js"
+  ],
+  "resources/js/components/topbar/ProfileDropdown.tsx": [
+    "/build/assets/PageContent-ChVB5ffB.js"
+  ],
+  "resources/js/hooks/useColorMode.ts": [
+    "/build/assets/useColorMode-DIaHfFiE.js"
+  ],
+  "resources/js/hooks/useCreateSong.ts": [
+    "/build/assets/Dashboard-BCLmLffg.js"
+  ],
+  "resources/js/hooks/useGeneratePassword.ts": [
+    "/build/assets/useGeneratePassword-C0QxrA1n.js"
+  ],
+  "resources/js/hooks/useGetQuota.ts": [
+    "/build/assets/Dashboard-BCLmLffg.js"
+  ],
+  "resources/js/hooks/useGetSongs.ts": [
+    "/build/assets/Dashboard-BCLmLffg.js"
+  ],
+  "resources/js/hooks/useUser.ts": [
+    "/build/assets/blank-462x265-CaLUIvp7.js",
+    "/build/assets/blank-462x265-CeiEg4B3.webp"
+  ],
+  "resources/js/hooks/useWindowWidth.ts": [
+    "/build/assets/PageContent-ChVB5ffB.js"
+  ],
+  "resources/js/i18n/translations.ts": [
+    "/build/assets/translations-CfzOLbPg.js"
+  ],
+  "resources/js/layouts/GuestLayout.tsx": [
+    "/build/assets/Welcome-px_UveZE.js"
+  ],
+  "resources/js/layouts/admin/corporate/Layout.tsx": [
+    "/build/assets/Layout-Dea-AUKX.js"
+  ],
+  "resources/js/layouts/admin/corporate/components/Header.tsx": [
+    "/build/assets/Layout-Dea-AUKX.js"
+  ],
+  "resources/js/layouts/admin/corporate/components/Sidebar.tsx": [
+    "/build/assets/Layout-Dea-AUKX.js"
+  ],
+  "resources/js/layouts/admin/executive/Layout.tsx": [
+    "/build/assets/Layout-DF_wZc09.js"
+  ],
+  "resources/js/layouts/admin/executive/components/Header.tsx": [
+    "/build/assets/Layout-DF_wZc09.js"
+  ],
+  "resources/js/layouts/admin/executive/components/Sidebar.tsx": [
+    "/build/assets/Layout-DF_wZc09.js"
+  ],
+  "resources/js/pages/Dashboard.tsx": [
+    "/build/assets/Dashboard-BCLmLffg.js"
+  ],
+  "resources/js/pages/Error.tsx": [
+    "/build/assets/Error-DXiHfUUH.js"
+  ],
+  "resources/js/pages/Welcome.tsx": [
+    "/build/assets/Welcome-px_UveZE.js"
+  ],
+  "resources/js/pages/admin/Settings.tsx": [
+    "/build/assets/Settings-DPtJ0PdW.js"
+  ],
+  "resources/js/pages/admin/permissions/Permissions.tsx": [
+    "/build/assets/Permissions-BaVY6adQ.js",
+    "/build/assets/Permissions-D1N3Y2AV.css"
+  ],
+  "resources/js/pages/admin/permissions/components/CreateEditForm.tsx": [
+    "/build/assets/CreateEditForm-DpLx7F61.js"
+  ],
+  "resources/js/pages/admin/permissions/components/DeletePermission.tsx": [
+    "/build/assets/DeletePermission-YeR6BtMd.js"
+  ],
+  "resources/js/pages/admin/permissions/components/PermissionsList.tsx": [
+    "/build/assets/PermissionsList-CVm57uau.js"
+  ],
+  "resources/js/pages/admin/roles/CreateEdit.tsx": [
+    "/build/assets/CreateEdit-xeczt9tr.js"
+  ],
+  "resources/js/pages/admin/roles/Roles.tsx": [
+    "/build/assets/Roles-Dphh8xQO.js"
+  ],
+  "resources/js/pages/admin/roles/components/DeleteRole.tsx": [
+    "/build/assets/DeleteRole-CAMDjC8R.js"
+  ],
+  "resources/js/pages/admin/roles/components/RolesList.tsx": [
+    "/build/assets/RolesList-CHtjx8Uj.js"
+  ],
+  "resources/js/pages/admin/users/AdministratorsList.tsx": [
+    "/build/assets/AdministratorsList-B-eCUvWP.js"
+  ],
+  "resources/js/pages/admin/users/Create.tsx": [
+    "/build/assets/Create-C96jMCNy.js"
+  ],
+  "resources/js/pages/admin/users/Edit.tsx": [
+    "/build/assets/Edit-FANnj1lD.js"
+  ],
+  "resources/js/pages/admin/users/UsersList.tsx": [
+    "/build/assets/UsersList-BVVqcmyX.js"
+  ],
+  "resources/js/pages/admin/users/components/AdministratorsList.tsx": [
+    "/build/assets/AdministratorsList-PIxOCpjj.js"
+  ],
+  "resources/js/pages/admin/users/components/DeleteAccount.tsx": [
+    "/build/assets/DeleteAccount-CjYNOOlj.js"
+  ],
+  "resources/js/pages/admin/users/components/FormBasicInformation.tsx": [
+    "/build/assets/FormBasicInformation-BBEfkPoQ.js"
+  ],
+  "resources/js/pages/admin/users/components/FormPassword.tsx": [
+    "/build/assets/FormPassword-_SqkAFie.js"
+  ],
+  "resources/js/pages/admin/users/components/FormPersonalInformation.tsx": [
+    "/build/assets/FormPersonalInformation-Cyc-FZfU.js"
+  ],
+  "resources/js/pages/admin/users/components/FormProfessionalInformation.tsx": [
+    "/build/assets/FormProfessionalInformation-BIF9ub3l.js"
+  ],
+  "resources/js/pages/admin/users/components/SessionsManager.tsx": [
+    "/build/assets/SessionsManager-BsPIppl7.js"
+  ],
+  "resources/js/pages/admin/users/components/UsersList.tsx": [
+    "/build/assets/UsersList-BX4WRS-6.js"
+  ],
+  "resources/js/pages/auth/ConfirmPassword.tsx": [
+    "/build/assets/ConfirmPassword-X4L4-KPz.js"
+  ],
+  "resources/js/pages/auth/ForgotPassword.tsx": [
+    "/build/assets/ForgotPassword-D28hqF7y.js"
+  ],
+  "resources/js/pages/auth/Login.tsx": [
+    "/build/assets/Login-0p3WU5E4.js"
+  ],
+  "resources/js/pages/auth/Register.tsx": [
+    "/build/assets/Register-BNtoPCeR.js"
+  ],
+  "resources/js/pages/auth/ResetPassword.tsx": [
+    "/build/assets/ResetPassword-C6Y7BiAX.js"
+  ],
+  "resources/js/pages/auth/VerifyEmail.tsx": [
+    "/build/assets/VerifyEmail-BdO2w13e.js"
+  ],
+  "resources/js/pages/auth/components/StatusMessage.tsx": [
+    "/build/assets/StatusMessage-B9OyBjgZ.js"
+  ],
+  "resources/js/pages/auth/layout/AuthLayout1.tsx": [
+    "/build/assets/AuthLayout1-Dv8XLxe8.js"
+  ],
+  "resources/js/pages/auth/layout/AuthLayout2.tsx": [
+    "/build/assets/AuthLayout2-2skAmo5S.js"
+  ],
+  "resources/js/pages/auth/layout/AuthLayout3.tsx": [
+    "/build/assets/AuthLayout3-DXGl3gwa.js"
+  ],
+  "resources/js/pages/profile/Edit.tsx": [
+    "/build/assets/Edit-eOw9yJ4J.js"
+  ],
+  "resources/js/pages/profile/components/DeleteAccount.tsx": [
+    "/build/assets/DeleteAccount-MzfM4hGc.js"
+  ],
+  "resources/js/pages/profile/components/FormBasicInformation.tsx": [
+    "/build/assets/FormBasicInformation-DeBewdBZ.js"
+  ],
+  "resources/js/pages/profile/components/FormPassword.tsx": [
+    "/build/assets/FormPassword-CpEJ-eW8.js"
+  ],
+  "resources/js/pages/profile/components/FormPersonalInformation.tsx": [
+    "/build/assets/FormPersonalInformation-Do2gyo9W.js"
+  ],
+  "resources/js/pages/profile/components/FormProfessionalInformation.tsx": [
+    "/build/assets/FormProfessionalInformation-Dw0WR7XO.js"
+  ],
+  "resources/js/pages/profile/components/ProfileCard.tsx": [
+    "/build/assets/ProfileCard-z1jCf-kd.js"
+  ],
+  "resources/js/ssr.tsx": [],
+  "resources/js/store/useMainStore.ts": [
+    "/build/assets/useMainStore-BNNQMtH2.js"
+  ],
+  "vendor/tightenco/ziggy/dist/index.js": []
+}

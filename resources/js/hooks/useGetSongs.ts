@@ -1,9 +1,9 @@
 import { useEffect, useState } from 'react'
-import type { Songs } from '@/types/song'
+import type { SunoSongs } from '@/types/song'
 
 export const useGetSongs = () => {
 	const [loadingSongs, setLoadingSongs] = useState(true)
-	const [songs, setSongs] = useState<Songs>([])
+	const [songs, setSongs] = useState<SunoSongs>([])
 	const [fetchSongsError, setError] = useState(null)
 
 	const fetchSongs = async () => {

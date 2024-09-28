@@ -81,4 +81,23 @@ class User extends Authenticatable implements MustVerifyEmail
 
 		return [];
 	}
+
+	// Has one SongPerUser
+	public function songsPerUser()
+	{
+		return $this->hasOne(SongPerUser::class);
+	}
+
+	public function availableSlots()
+	{
+		$totalUserSongs = Song::where('user_id', $this->id)->count();
+		$songsPerUser = $this->songsPerUser->total;
+		return $songsPerUser > $totalUserSongs;
+	}
+
+	// model has many songs
+	public function songs()
+	{
+		return $this->hasMany(Song::class);
+	}
 }

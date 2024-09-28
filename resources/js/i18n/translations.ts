@@ -100,6 +100,8 @@ const translations: Translations = {
 		'Job title': 'Job title',
 		Company: 'Company',
 		Biography: 'Biography',
+		Hello: 'Hello',
+		Enter: 'Enter',
 	},
 	es: {
 		Welcome: 'Bienvenido',
@@ -196,6 +198,8 @@ const translations: Translations = {
 		'Job title': 'Título',
 		Company: 'Compañia',
 		Biography: 'Biografía',
+		Hello: 'Hola',
+		Enter: 'Entrar',
 	},
 }
 

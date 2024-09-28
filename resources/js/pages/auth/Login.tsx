@@ -13,12 +13,22 @@ interface Props {
 
 const pageTitle = t('Log in').toString()
 
+const environment = import.meta.env.VITE_APP_ENV
+
 const Page = ({ status, canResetPassword, layout = 'layout1' }: Props) => {
-	const { data, setData, post, processing, errors, reset } = useForm({
-		login: '',
-		password: '',
-		remember: false,
-	})
+	const { data, setData, post, processing, errors, reset } = useForm(
+		environment === 'local'
+			? {
+					login: 'johndoe',
+					password: 'password',
+					remember: true,
+			  }
+			: {
+					login: '',
+					password: '',
+					remember: false,
+			  }
+	)
 
 	const [pwdVisibility, setPwdVisibility] = useState<boolean>(false)
 	const inputLogin = useRef<HTMLInputElement>(null)
@@ -95,6 +105,7 @@ const Page = ({ status, canResetPassword, layout = 'layout1' }: Props) => {
 								aria-label="Remember me"
 								value={data.remember ? '1' : '0'}
 								isDisabled={processing}
+								isSelected={data.remember}
 								onValueChange={(e) => setData('remember', e)}
 							>
 								{t('Remember me')}

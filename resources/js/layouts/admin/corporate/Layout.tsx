@@ -28,7 +28,7 @@ export const Layout = ({ children, pageTitle }: Props) => {
 			<main className="bg-background min-h-screen">
 				<Header />
 
-				<div className="flex min-h-svh">
+				<div className="flex ">
 					<Sidebar />
 
 					<div className="flex-1">{children}</div>

@@ -1,0 +1,1 @@
+import{u as o,j as s,Q as t,F as r}from"./app-Xg3MWjUp.js";const n=()=>{const{colorMode:e}=o();return s.jsx(t,{position:"bottom-right",autoClose:4e3,hideProgressBar:!1,newestOnTop:!0,closeOnClick:!0,pauseOnFocusLoss:!0,draggable:!0,pauseOnHover:!0,theme:e,transition:r})};export{n as T};

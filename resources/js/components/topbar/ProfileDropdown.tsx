@@ -30,7 +30,9 @@ export const ProfileDropdown = ({
 			<Dropdown radius="none" placement="bottom-end">
 				<DropdownTrigger className="cursor-pointer select-none">
 					{showOnlyName ? (
-						<div>{`${user.username}`}</div>
+						<div className="text-sm font-light">
+							{t('Hello')}, {`${user.username}`}
+						</div>
 					) : showName ? (
 						<User
 							isFocusable

@@ -1,0 +1,1 @@
+import{c as n}from"./isScrollable-BprAQSS1.js";function o(c,t){let e=c;for(n(e,t)&&(e=e.parentElement);e&&!n(e,t);)e=e.parentElement;return e||document.scrollingElement||document.documentElement}export{o as $};
